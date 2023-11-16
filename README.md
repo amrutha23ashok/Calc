@@ -22,9 +22,9 @@ Write JavaScript program for implementing five different operations.
 Validate the HTML and CSS code.
 
 ### Step 6:
-Publish the website in the given URL.
+Publish the website in the given URL
 
-## PROGRAM :
+PROGRAM:
 <!DOCTYPE html>
 <html lang="en">
 
@@ -156,9 +156,12 @@ for (item of buttons) {
 }
 
 ## OUTPUT:
-![image](https://github.com/amrutha23ashok/Calc/assets/120772913/63427ed6-d3b0-4fc3-a036-958dfe49247a)
+![Uploading image.png…]()
 
-![image](https://github.com/amrutha23ashok/Calc/assets/120772913/9846fe27-e9c6-4f6b-9a7a-27ae06c1278a)
+![image](https://github.com/amrutha23ashok/Calc/assets/120772913/9d4a662f-de17-4d06-a268-41c0aada73df)
+
+
+
 
 
 
